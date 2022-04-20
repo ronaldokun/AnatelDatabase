@@ -1,1 +1,22 @@
-{"appAnalise": {"Version": "1.13", "ReleaseDate": "28/11/2021"}, "appColeta": {"Version": "1.0", "ReleaseDate": "28/12/2021"}, "anateldb": {"Version": "0.1.48", "ReleaseDate": "15/03/2022"}, "fiscaliza": {"Version": "0.2.6", "ReleaseDate": "21/09/2021"}, "rfpye": {"Version": "0.2.3", "ReleaseDate": "03/11/2021"}}
+{
+    "appAnalise": {
+        "Version": "1.13",
+        "ReleaseDate": "28/11/2021"
+    },
+    "appColeta": {
+        "Version": "1.0",
+        "ReleaseDate": "28/12/2021"
+    },
+    "anateldb": {
+        "Version": "0.1.49",
+        "ReleaseDate": "17/03/2022"
+    },
+    "fiscaliza": {
+        "Version": "0.2.12",
+        "ReleaseDate": "20/04/2022"
+    },
+    "rfpye": {
+        "Version": "0.2.3",
+        "ReleaseDate": "03/11/2021"
+    }
+}
