@@ -1,0 +1,5 @@
+AnatelDB.xlsx filter=lfs diff=lfs merge=lfs -text
+GeoAiswebDB.xlsx filter=lfs diff=lfs merge=lfs -text
+IcaoDB.xlsx filter=lfs diff=lfs merge=lfs -text
+municípios.xlsx filter=lfs diff=lfs merge=lfs -text
+PmecDB.xlsx filter=lfs diff=lfs merge=lfs -text
